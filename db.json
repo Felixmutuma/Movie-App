@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Damsel",
       "likes": 200,
-      "genre": [],
+      "type": "movie",
       "rating": "8.0",
       "poster": "/Images/Damsel.jpg",
       "comments": []
@@ -13,7 +13,7 @@
       "id": 2,
       "title": "Warrior",
       "likes": 20,
-      "genre": [],
+      "type": "series",
       "rating": "8.0",
       "poster": "https://i.goojara.to/mb_007_7951.jpg",
       "comments": []
@@ -22,7 +22,7 @@
       "id": 3,
       "title": "Inception",
       "likes": 29,
-      "genre": [],
+      "type": "movie",
       "rating": "8.8",
       "poster": "https://i.goojara.to/mb_002_2088.jpg",
       "comments": []
@@ -31,7 +31,7 @@
       "id": 4,
       "title": "The Dark Knight",
       "likes": 57,
-      "genre": [],
+      "type": "series",
       "rating": "9.0",
       "poster": "https://i.goojara.to/mb_000_18.jpg",
       "comments": []
@@ -40,7 +40,7 @@
       "id": 5,
       "title": "Interstellar",
       "likes": 100,
-      "genre": [],
+      "type": "movie",
       "rating": "8.6",
       "poster": "https://i.goojara.to/mb_216_216866.jpg",
       "comments": []
@@ -49,7 +49,7 @@
       "id": 6,
       "title": "The Shawshank Redemption",
       "likes": 39,
-      "genre": [],
+      "type": "series",
       "rating": "9.3",
       "poster": "https://i.goojara.to/mb_000_247.jpg",
       "comments": []
@@ -58,7 +58,7 @@
       "id": 7,
       "title": "Bob Marley: One Love",
       "likes": 367,
-      "genre": [],
+      "type": "movie",
       "rating": "9.2",
       "poster": "https://i.goojara.to/mb_229_229458.jpg",
       "comments": []
@@ -67,7 +67,7 @@
       "id": 8,
       "title": "The Godfather: Part II",
       "likes": 89,
-      "genre": [],
+      "type": "series",
       "rating": "9.0",
       "poster": "https://i.goojara.to/mb_000_248.jpg",
       "comments": []
@@ -76,7 +76,7 @@
       "id": 9,
       "title": "Pulp Fiction",
       "likes": 79,
-      "genre": [],
+      "type": "movie",
       "rating": "8.9",
       "poster": "https://i.goojara.to/mb_000_250.jpg",
       "comments": []
@@ -85,7 +85,7 @@
       "id": 10,
       "title": "The Lord of the Rings: The Return of the King",
       "likes": 678,
-      "genre": [],
+      "type": "series",
       "rating": "8.9",
       "poster": "https://i.goojara.to/mb_000_252.jpg",
       "comments": []
@@ -94,7 +94,7 @@
       "id": 11,
       "title": "Forrest Gump",
       "likes": 49,
-      "genre": [],
+      "type": "movie",
       "rating": "8.8",
       "poster": "https://i.goojara.to/mb_000_515.jpg",
       "comments": []
@@ -103,7 +103,7 @@
       "id": 12,
       "title": "Fight Club",
       "likes": 38,
-      "genre": [],
+      "type": "series",
       "rating": "8.8",
       "poster": "https://i.goojara.to/mb_000_253.jpg",
       "comments": []
@@ -112,7 +112,7 @@
       "id": 13,
       "title": "Inglourious Basterds",
       "likes": 70,
-      "genre": [],
+      "type": "movie",
       "rating": "8.3",
       "poster": "https://i.goojara.to/mb_000_67.jpg",
       "comments": []
@@ -121,7 +121,7 @@
       "id": 14,
       "title": "The Matrix",
       "likes": 90,
-      "genre": [],
+      "type": "series",
       "rating": "8.7",
       "poster": "https://i.goojara.to/mb_000_445.jpg",
       "comments": []
@@ -130,7 +130,7 @@
       "id": 15,
       "title": "The Dark Knight Rises",
       "likes": 55,
-      "genre": [],
+      "type": "series",
       "rating": "8.4",
       "poster": "https://i.goojara.to/mb_201_201726.jpg",
       "comments": []
@@ -139,7 +139,7 @@
       "id": 16,
       "title": "The Lord of the Rings: The Fellowship of the Ring",
       "likes": 89,
-      "genre": [],
+      "type": "movie",
       "rating": "8.8",
       "poster": "https://i.goojara.to/mb_000_254.jpg",
       "comments": []
@@ -148,7 +148,7 @@
       "id": 17,
       "title": "The Lord of the Rings: The Two Towers",
       "likes": 69,
-      "genre": [],
+      "type": "series",
       "rating": "8.7",
       "poster": "https://i.goojara.to/mb_001_1105.jpg",
       "comments": []
@@ -157,7 +157,7 @@
       "id": 18,
       "title": "The Avengers",
       "likes": 88,
-      "genre": [],
+      "type": "movie",
       "rating": "8.0",
       "poster": "https://i.goojara.to/mb_006_6011.jpg",
       "comments": []
@@ -166,7 +166,7 @@
       "id": 19,
       "title": "Avengers: Infinity War",
       "likes": 90,
-      "genre": [],
+      "type": "movie",
       "rating": "8.4",
       "poster": "https://i.goojara.to/mb_220_220984.jpg",
       "comments": []
@@ -175,7 +175,7 @@
       "id": 20,
       "title": "Avengers: Endgame",
       "likes": 73,
-      "genre": ["action"],
+      "type": "movie",
       "rating": "8.4",
       "poster": "https://i.goojara.to/mb_223_223280.jpg",
       "comments": []

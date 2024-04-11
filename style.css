@@ -11,6 +11,16 @@ body {
     background-color: #f2f2f2;
     color: #333;
 }
+h2, h3{
+    font-family: "Gruppo", sans-serif;
+    font-weight: 800;
+    font-style:normal;
+  }
+  #logo{
+    height: 50px;
+    width: 50px;
+    border-radius: 15px;
+  }
 
 .container {
     max-width: 1200px;
@@ -36,13 +46,42 @@ header {
 #nav-container {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: flex-start;
 }
 
 #nav-container h3 {
     font-size: 24px;
+    margin-left: 10px;
+}
+#movie-input{
+    height: 30px;
+    width: 300px;
+    margin-left: 700px;
+}
+#search-btn{
+    height: 30px;
+    margin: 0px 5px 0px 10px; 
+    border-radius: 3px;  
 }
 
+.mv-sr-btn{
+    height: 25px;
+    width: 100px;
+    margin-left: 5px;
+    margin-bottom: 15px;
+    background-color: #1e4e7a;
+    color: whitesmoke;
+    font-size: large;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: "Gruppo", sans-serif;
+    font-weight: 800;
+    font-style:normal;
+}
+.mv-sr-btn:hover{
+    background-color: #55718b;
+ 
+}
 #search-btn {
     background-color: #4CAF50;
     color: white;
@@ -54,6 +93,9 @@ header {
     font-size: 16px;
     margin-left: 10px;
     cursor: pointer;
+}
+#search-btn:hover {
+    background-color: #3e803e;
 }
 
 /* Main Content Styles */
@@ -96,6 +138,8 @@ main {
     border: none;
     font-size: 24px;
     cursor: pointer;
+    height:30px;
+    width: 40px;
 }
 
 .movie-item .comments {
@@ -121,6 +165,9 @@ main {
     border: none;
     padding: 5px 10px;
     cursor: pointer;
+}
+.comment-button:hover {
+    background-color: #3e803e;
 }
 
 /* Footer Styles */
