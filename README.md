@@ -22,6 +22,8 @@ Welcome to the Movie App! This web application provides a platform for users to 
 
 - **Searching**: Easily find specific movies by searching for them using the search bar at the top of the app. The search functionality filters movies by title, enabling users to quickly locate desired content.
 
+- **Sorting**: User can easily find a film by sorting the films into series or movie. The sort functionality filters movies by type i.e movie or series, enabling users to quickly locate desired content.
+
 ## Technologies Used
 
 The Movie App is powered by the following technologies:
